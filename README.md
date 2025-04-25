@@ -1,7 +1,4 @@
-print('hello')- 👋 Hi, I’m @aryanmaurya1803
-- 👀 I’m interested in python
-- 🌱 I’m currently learning BCA&MCA(DS)
-- 📫 How to reach me ... to aryankushwaha3245@gmail.com
+
   
 
 
